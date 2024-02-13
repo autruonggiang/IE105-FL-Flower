@@ -1,14 +1,16 @@
 # IE105 - Introduction to Information Security and Assurance
 
-# Table of contents
+## Table of contents
 
-## 1. Introduction
-## 2. Related works
-## 3. Proposed system
-## 4. Evaluation
-## 5. Conclusion
+### 1. Introduction
+### 2. Related works
+### 3. Proposed system
+### 4. Evaluation
+### 5. Conclusion
 
-## REFERENCES
+### REFERENCES
+#### Flower: A Friendly Federated Learning Framework
+
 <p align="center">
   <a href="https://flower.dev/">
     <img src="https://flower.dev/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Fflower_white_border.c2012e70.png&w=640&q=75" width="140px" alt="Flower Website" />
@@ -30,5 +32,4 @@
 [![Slack](https://img.shields.io/badge/Chat-Slack-red)](https://flower.dev/join-slack)
 
 ## Documentation
-
 [Flower Docs](https://flower.dev/docs)
