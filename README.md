@@ -11,11 +11,9 @@
 ### REFERENCES
 
 ## Technology
-<p align="center">
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=py,pytorch&perline=2" />
 </a>
-</p>
 
 ### Flower: A Friendly Federated Learning Framework
 
