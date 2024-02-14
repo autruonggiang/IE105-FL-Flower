@@ -31,5 +31,20 @@
 [![Downloads](https://static.pepy.tech/badge/flwr)](https://pepy.tech/project/flwr)
 [![Slack](https://img.shields.io/badge/Chat-Slack-red)](https://flower.dev/join-slack)
 
-## Documentation
+##### Documentation
 [Flower Docs](https://flower.dev/docs)
+
+#### PortEx
+PortEx is a Java library for static malware analysis of Portable Executable files. Its focus is on PE malformation robustness, and anomaly detection. 
+PortEx is written in Java and Scala, and targeted at Java applications.  
+
+![visualizer example](http://i.imgur.com/7NBze4O.png)
+
+For more information have a look at [PortEx Wiki](https://github.com/struppigel/PortEx/wiki) and the [Documentation](http://struppigel.github.io/PortEx/javadocs/)
+
+## PortexAnalyzer CLI and GUI
+
+PortexAnalyzer CLI is a command line tool that runs the library PortEx under the hood. If you are looking for a readily compiled command line PE scanner to analyse files with it, download it from here [PortexAnalyzer.jar](https://github.com/katjahahn/PortEx/raw/master/progs/PortexAnalyzer.jar)
+
+The GUI version is available here: [PortexAnalyzerGUI](https://github.com/struppigel/PortexAnalyzerGUI)
+
