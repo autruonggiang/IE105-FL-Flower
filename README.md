@@ -10,8 +10,8 @@
 
 ### REFERENCES
 
-### Technology
-#### Flower: A Friendly Federated Learning Framework
+## Technology
+### Flower: A Friendly Federated Learning Framework
 
 <p align="center">
   <a href="https://flower.dev/">
@@ -33,10 +33,10 @@
 [![Downloads](https://static.pepy.tech/badge/flwr)](https://pepy.tech/project/flwr)
 [![Slack](https://img.shields.io/badge/Chat-Slack-red)](https://flower.dev/join-slack)
 
-##### Documentation
+#### Documentation
 [Flower Docs](https://flower.dev/docs)
 
-#### PortEx
+### PortEx
 PortEx is a Java library for static malware analysis of Portable Executable files. Its focus is on PE malformation robustness, and anomaly detection. 
 PortEx is written in Java and Scala, and targeted at Java applications.  
 
