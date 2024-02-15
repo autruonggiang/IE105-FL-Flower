@@ -1,14 +1,16 @@
 # IE105 - Introduction to Information Security and Assurance
 
-## Table of contents
+```
+___Table of contents___
 
-### 1. Introduction
-### 2. Related works
-### 3. Proposed system
-### 4. Evaluation
-### 5. Conclusion
+# 1. Introduction
+# 2. Related works
+# 3. Proposed system
+# 4. Evaluation
+# 5. Conclusion
 
-### REFERENCES
+# REFERENCES
+```
 
 ## Technology
 <a href="https://skillicons.dev">
