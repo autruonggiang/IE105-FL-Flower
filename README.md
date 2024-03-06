@@ -1,4 +1,4 @@
-# IE105 - Introduction to Information Security and Assurance
+# IE105 - Introduction to Information Security and Assurance's Project
 
 ```
 ___Table of contents___
