@@ -56,3 +56,16 @@ PortexAnalyzer CLI is a command line tool that runs the library PortEx under the
 
 The GUI version is available here: [PortexAnalyzerGUI](https://github.com/struppigel/PortexAnalyzerGUI)
 
+## Study and Reference Materials
+
+### Textbooks
+1. William Stallings (2017). "Cryptography and Network Security: Principles and Practice," 7th Edition. Pearson Education.
+2. Michael E. Whitman, Herbert J. Mattord (2017), "Principles of Information Security," 6th Edition. Cengage Learning.
+
+### Reference Documents
+1. Adel Ben Mnaouer, Lamia Chaari Fourati (2021). "Enabling Blockchain Technology for Secure Networking and Communications." IGI Global.
+2. Glen D. Singh (2019), "Learn Kali Linux 2019." Packt Publishing.
+
+### Software or Tools for Practice
+1. Kali Linux - [kali.org](https://www.kali.org)
+2. DVWA (Damn Vulnerable Web Application) - [dvwa.co.uk](https://www.dvwa.co.uk)
